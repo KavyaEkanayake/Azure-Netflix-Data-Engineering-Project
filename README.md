@@ -62,7 +62,7 @@ The entire Databricks workspace was integrated with the Unity Catalog environmen
 - Secure Metastore: Stored all metadata within the existing Metastore, establishing a secure and governed framework for data engineering operations.
   
 ## 🛠️Skills Gained & Technologies Utilized
-This project effectively utilizes the following AWS services:
+This project effectively utilizes the following Azure services:
 - ✅ Azure Data Factory (ADF) – Seamless data orchestration
 - ✅ Databricks – Smarter data processing with Spark
 - ✅ Unity Catalog – Secure and scalable data governance
