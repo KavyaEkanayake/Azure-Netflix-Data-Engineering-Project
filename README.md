@@ -75,7 +75,7 @@ This project effectively utilizes the following Azure services:
 ## 🗃️Dataset Used
 This project utilizes a publicly available dataset sourced from Kaggle, detailing Netflix's extensive catalog of movies and TV shows.
 
-**Link:** [https://www.kaggle.com/datasets/datasnaek/youtube-new](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+**Link:** [https://www.kaggle.com/datasets/shivamb/netflix-shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 **About the Dataset:** <br>
 This tabular dataset provides a comprehensive listing of movies and TV shows available on the Netflix platform. Sourced as of mid-2021, it captures key attributes for over 8000 titles, offering insights into content characteristics such as cast, directors, content ratings, release year, and duration. This rich metadata serves as the foundational input for the analytical pipeline.
